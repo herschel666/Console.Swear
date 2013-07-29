@@ -44,7 +44,7 @@ Lets you define which console-method is actually used. Possible types are:
 
 ## New phrases
 
-I wrote this little script after a long workday. Additionally I'm not a native english speaker. That's why the standard-phrases are rather crappy. If you have a really good one that you don't want add yourself everytime you use `console.swear`, make a PR or contact me on twitter. ([@Herschel_R](http://twitter.com/Herschel_R)).
+I wrote this little script after a long workday. Additionally I'm not a native english speaker. That's why the standard-phrases are rather crappy. If you have a really good one that you don't want to add yourself everytime you're using `console.swear`, make a PR or contact me on twitter. ([@Herschel_R](http://twitter.com/Herschel_R)).
 
 ----
 © 2013 [Emanuel Kluge](http://www.emanuel-kluge.de/)
