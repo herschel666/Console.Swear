@@ -1,0 +1,23 @@
+{
+  "name": "Console.Swear",
+  "version": "0.0.1",
+  "description": "For R-rated debugging on a crappy monday morning.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:herschel666/Console.Swear.git"
+  },
+  "keywords": [
+    "console",
+    "debugging"
+  ],
+  "author": {
+    "name": "Emanuel Kluge",
+    "url": "http://www.emanuel-kluge.de/"
+  },
+  "homepage": "https://github.com/herschel666/Console.Swear",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}
