@@ -28,7 +28,7 @@ There are two methods for adding more swear-phrases and to set the console-type.
 The method accepts strings and arrays.
 
 	console.swear.add('a new severe swear-phrase');
-	
+
 	console.swear.add([
 		'a new phrase',
 		'another evil phrase'
