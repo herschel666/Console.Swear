@@ -52,7 +52,7 @@
 
 		consoleType = _consoleType_.replace(/\s+/g, '');
 
-		return consoleTypes.indexOf(consoleType) > 0;
+		return consoleTypes.indexOf(consoleType) > -1;
 
 	}
 
